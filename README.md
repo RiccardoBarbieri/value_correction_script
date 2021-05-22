@@ -4,6 +4,6 @@ Script ad hoc per automatizzare la correzione del numero di cifre significative 
 
 L'ordine dei parametri per invocare l'esecuzione dello script è il seguente:
 
-path input, path output, colonna tempi, colonna valori, colonna errori, range righe (n:m)
+```input_path, output_path, colonna_tempi, colonna_valori, colonna_errori, row_range(n:m)```
 
 Per specificare le colonne da modificare, utilizzare la relativa lettera.
